@@ -5359,9 +5359,9 @@ packages:
   timestamp: 1730190145267
 - kind: pypi
   name: pymolecule
-  version: 2.2.1
+  version: 0.0.1
   path: .
-  sha256: e71ded59efe8682543ddc4c3900cce5953a278c819c5dc7848783ee7eb1866fa
+  sha256: ce0caa7f06779899ffe533d6369bbfcc61c0b7dd44df73a865a72ae20ec4b9f4
   requires_dist:
   - numpy>=2.1.3,<3
   - scipy>=1.14.1,<2

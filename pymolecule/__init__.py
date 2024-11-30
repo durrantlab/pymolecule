@@ -9,7 +9,7 @@ from loguru import logger
 from .molecule import Molecule
 
 __all__ = ["Molecule"]
-__version__ = "2.2.2"
+__version__ = "0.0.1"
 
 logger.disable("pymolecule")
 

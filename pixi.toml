@@ -4,7 +4,7 @@ channels = ["conda-forge"]
 description = "Add a short description here"
 name = "pymolecule"
 platforms = ["win-64", "linux-64", "osx-64"]
-version = "2.2.1"
+version = "0.0.1"
 readme = "README.md"
 
 [pypi-dependencies]
