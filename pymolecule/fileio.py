@@ -11,7 +11,7 @@ class FileIO:
     object"""
 
     def __init__(self, parent_molecule_object):
-        """Initializes the pymolecule.FileIO class.
+        """Initializes the pymolecule.io class.
 
         Args:
             parent_molecule_object: The pymolecule.Molecule object

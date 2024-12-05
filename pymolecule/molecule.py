@@ -793,9 +793,9 @@ class Selections:
         # note that hierarchy will have to be recalculated
 
         if serial_reindex:
-            new_mol.fileio.serial_reindex()
+            new_mol.io.serial_reindex()
         if resseq_reindex:
-            new_mol.fileio.resseq_reindex()
+            new_mol.io.resseq_reindex()
         return new_mol
 
     def copy(self):
